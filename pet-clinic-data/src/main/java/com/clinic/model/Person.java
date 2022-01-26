@@ -1,4 +1,4 @@
-package com.clinic.petclinic.model;
+package com.clinic.model;
 
 public class Person {
 
